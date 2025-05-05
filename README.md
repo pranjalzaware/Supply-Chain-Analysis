@@ -34,3 +34,5 @@ The objective of this Supply Chain Analysis project is to monitor and optimize k
 ## Dashboard
 ![Dashboard Image](https://github.com/user-attachments/assets/b957fa3c-4f1b-4f90-87b9-46aee3766e0a)
 
+## Conclusion
+The Supply Chain Analysis project delivered actionable insights into revenue, product quality, supplier performance, and logistics. It enables data-driven decisions to improve efficiency, reduce defects, and enhance overall supply chain operations.
