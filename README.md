@@ -32,4 +32,5 @@ The objective of this Supply Chain Analysis project is to monitor and optimize k
   Use insights from the dashboard to make informed supply chain decisions and improvements.
 
 ## Dashboard
-C:\Users\SoftAccTech\Pictures\Screenshots
+![Dashboard Image](https://github.com/user-attachments/assets/b957fa3c-4f1b-4f90-87b9-46aee3766e0a)
+
